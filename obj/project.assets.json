@@ -794,11 +794,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cloudyhug/Documents/prime/prime.fsproj",
+      "projectUniqueName": "/Users/cloudyhug/Documents/fsharp-prime/prime.fsproj",
       "projectName": "prime",
-      "projectPath": "/Users/cloudyhug/Documents/prime/prime.fsproj",
+      "projectPath": "/Users/cloudyhug/Documents/fsharp-prime/prime.fsproj",
       "packagesPath": "/Users/cloudyhug/.nuget/packages/",
-      "outputPath": "/Users/cloudyhug/Documents/prime/obj/",
+      "outputPath": "/Users/cloudyhug/Documents/fsharp-prime/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
